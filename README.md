@@ -2,34 +2,32 @@
 
 ## **Sobre mim**
 
-Meu nome é **Emerson Bezerra**, sou **Bacharel em Química Industrial - Research Methodology and Quantitative Methods**, pela **Universidade Estadual da Paraíba**, tendo concluído o curso no ano de 2002.
+Sou formado em Química Industrial, pela Universidade Estadual da Paraíba. Atuei por 8 anos na área da indústria química e, em seguida, trabalhei por 6 anos como auxiliar administrativo em uma confeitaria. Nada disso tirou de mim a minha paixão pela tecnologia e, portanto, decidi fazer minha transição de carreira. Durante minha trajetória profissional, sempre fui movido pela curiosidade e pelo desejo de entender como as coisas funcionam nos bastidores.
 
-Sou um profissional versátil com experiências diversas. Iniciei minha carreira como químico responsável em uma empresa renomada do setor de domissanitários por oito anos, adquirindo habilidades técnicas sólidas e conhecimentos profundos no setor.
+Minha jornada no mundo da programação começou como um hobby, mas rapidamente se transformou em uma paixão. Fascinado pelo universo da codificação, decidi mergulhar de cabeça e aprender mais sobre o desenvolvimento de software. Foi assim que me tornei um entusiasta das tecnologias Node.js, TypeScript, Express e MongoDB.
 
-Em busca de novos desafios, atuei como auxiliar administrativo em uma pequena empresa de confeitaria, onde desenvolvi habilidades em organização, comunicação e trabalho em equipe.
+Determinação é meu sobrenome. Adoro desafios e estou sempre em busca de novas oportunidades para expandir meus conhecimentos e habilidades. Acredito que a combinação do Node.js com o poderoso TypeScript oferece uma base sólida para criar aplicativos modernos e eficientes.
 
-Atualmente, estou embarcando em uma transição para a área de programação, focado em aprimorar minhas habilidades em **HTML**, **CSS** e **JavaScript**. Tenho paixão por essa área em constante evolução e estou animado com as possibilidades de solucionar problemas e criar soluções inovadoras.
+Minha experiência com Express me permite construir APIs RESTful de forma flexível e eficaz. Além disso, minha habilidade em lidar com MongoDB garante a integridade e a segurança dos dados.
 
-Sou um entusiasta do aprendizado contínuo. Será um prazer conectar-me com profissionais inspiradores e explorar possíveis oportunidades de colaboração.
-
-Obrigado pela visita ao meu perfil e estou à disposição para conversar e trocar ideias.
+Estou pronto para enfrentar novos desafios e contribuir com equipes talentosas. Se você está em busca de um desenvolvedor comprometido, com habilidades em Node.js, TypeScript, Express e MongoDB, estou à disposição para colaborar!
 
 **Um forte abraço!**
 
 ## **Habilidades**
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg ">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg ">
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg ">
 </div>
 
 ## **Aprendendo**
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Nest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nestjs/nestjs-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg>
 </div>
 
 ## 📊 GitHub Stats:
