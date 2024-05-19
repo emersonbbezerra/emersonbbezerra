@@ -25,9 +25,9 @@ Estou pronto para enfrentar novos desafios e contribuir com equipes talentosas. 
 ## **Aprendendo**
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Nest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nestjs/nestjs-original-wordmark.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg">
-  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg>
+  <img align="center" alt="Nest" height="30" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nestjs/nestjs-original-wordmark.svg">
+  <img align="center" alt="Java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg">
+  <img align="center" alt="AWS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div>
 
 ## 📊 GitHub Stats:
