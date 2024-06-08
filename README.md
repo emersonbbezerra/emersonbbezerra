@@ -2,15 +2,7 @@
 
 ## **Sobre mim**
 
-Sou formado em Química Industrial, pela Universidade Estadual da Paraíba. Atuei por 8 anos na área da indústria química e, em seguida, trabalhei por 6 anos como auxiliar administrativo em uma confeitaria. Nada disso tirou de mim a minha paixão pela tecnologia e, portanto, decidi fazer minha transição de carreira. Durante minha trajetória profissional, sempre fui movido pela curiosidade e pelo desejo de entender como as coisas funcionam nos bastidores.
-
-Minha jornada no mundo da programação começou como um hobby, mas rapidamente se transformou em uma paixão. Fascinado pelo universo da codificação, decidi mergulhar de cabeça e aprender mais sobre o desenvolvimento de software. Foi assim que me tornei um entusiasta das tecnologias Node.js, TypeScript, Express e MongoDB.
-
-Determinação é meu sobrenome. Adoro desafios e estou sempre em busca de novas oportunidades para expandir meus conhecimentos e habilidades. Acredito que a combinação do Node.js com o poderoso TypeScript oferece uma base sólida para criar aplicativos modernos e eficientes.
-
-Minha experiência com Express me permite construir APIs RESTful de forma flexível e eficaz. Além disso, minha habilidade em lidar com MongoDB garante a integridade e a segurança dos dados.
-
-Estou pronto para enfrentar novos desafios e contribuir com equipes talentosas. Se você está em busca de um desenvolvedor comprometido, com habilidades em Node.js, TypeScript, Express e MongoDB, estou à disposição para colaborar!
+Sou Químico Industrial, formado pela Universidade Estadual da Paraíba. Atuei por 8 anos na área da indústria química, em seguida, trabalhei por 6 anos como auxiliar administrativo em uma confeitaria. Nada disso tirou de mim a minha paixão pela tecnologia e, portanto, decidi fazer minha transição de carreira. Um pouco tardia talvez, mas, como eu não desisto nunca e adoro desafios, estou adorando! Estou aprimorando sempre: Node.js, TypeScript, Express e banco de dados NoSQL, em especial o MongoDB.
 
 **Um forte abraço!**
 
