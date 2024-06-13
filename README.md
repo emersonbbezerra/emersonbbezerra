@@ -2,7 +2,11 @@
 
 ## **Sobre mim**
 
-Sou Químico Industrial, formado pela Universidade Estadual da Paraíba. Atuei por 8 anos na área da indústria química, em seguida, trabalhei por 6 anos como auxiliar administrativo em uma confeitaria. Nada disso tirou de mim a minha paixão pela tecnologia e, portanto, decidi fazer minha transição de carreira. Um pouco tardia talvez, mas, como eu não desisto nunca e adoro desafios, estou adorando! Estou aprimorando sempre: Node.js, TypeScript, Express e banco de dados NoSQL, em especial o MongoDB.
+Estudando sempre backend com: Node.js, TypeScript, Express e banco de dados NoSQL, em especial o MongoDB e demais tecnologias que sejam necessárias em cada projeto. Adoro desafios e por isso também estou estudando Java!
+
+Sou uma pessoa determinada, focada, entusiasta, que adora trabalhar em equipe e que acha nos desafios do dia a dia uma maneira de sempre evoluir.
+
+Mas antes de me tornar um programador eu tive minha vida acadêmica. Sou Químico Industrial, formado pela Universidade Estadual da Paraíba. Atuei por 8 anos na área da indústria química, em seguida, trabalhei por 6 anos como auxiliar administrativo em uma confeitaria. Mas nada disso tirou de mim a paixão pela tecnologia. Fiz minha transição de carreira e estou pronto para enfrentar novos desafios e contribuir com equipes talentosas!
 
 **Um forte abraço!**
 
