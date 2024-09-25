@@ -1,16 +1,12 @@
-# [![Typing SVG](<https://readme-typing-svg.herokuapp.com?duration=5011&color=CFCECB&center=falso&vCenter=falso&lines=Ol%C3%A1+%F0%9F%91%8B+seja+Bem-vindo(a)!>)](https://git.io/typing-svg)
+# [![Typing SVG](<https://readme-typing-svg.herokuapp.com?duration=5011&color=CFCECB&center=falso&vCenter=falso&lines=Hello!+%F0%9F%91%8B+Welcome!>)](https://git.io/typing-svg)
 
-## **Sobre mim**
+## **About me**
 
-Estudando sempre backend com: Node.js, TypeScript, Express e banco de dados NoSQL, em especial o MongoDB e demais tecnologias que sejam necessárias em cada projeto. Adoro desafios e por isso também estou estudando Java!
+Experienced in clean architecture and API development with a strong background in Node.js, TypeScript, Express, and MongoDB. Successfully transitioned from the chemical industry to software development, leveraging analytical and problem-solving skills. Passionate about technology and committed to tackling new challenges. Proven ability in team collaboration, effective communication, and rapid adaptation to emerging technologies.
 
-Sou uma pessoa determinada, focada, entusiasta, que adora trabalhar em equipe e que acha nos desafios do dia a dia uma maneira de sempre evoluir.
+**A big hug!**
 
-Mas antes de me tornar um programador eu tive minha vida acadêmica. Sou Químico Industrial, formado pela Universidade Estadual da Paraíba. Atuei por 8 anos na área da indústria química, em seguida, trabalhei por 6 anos como auxiliar administrativo em uma confeitaria. Mas nada disso tirou de mim a paixão pela tecnologia. Fiz minha transição de carreira e estou pronto para enfrentar novos desafios e contribuir com equipes talentosas!
-
-**Um forte abraço!**
-
-## **Habilidades**
+## **Skills**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="NodeJS" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg ">
@@ -18,7 +14,7 @@ Mas antes de me tornar um programador eu tive minha vida acadêmica. Sou Químic
   <img align="center" alt="MongoDB" height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg ">
 </div>
 
-## **Aprendendo**
+## **Learning**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nest" height="100" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nestjs/nestjs-original-wordmark.svg">
@@ -30,10 +26,10 @@ Mas antes de me tornar um programador eu tive minha vida acadêmica. Sou Químic
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonbbezerra&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🔗 Conecte-se Comigo
+## 🔗 Connect with me
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emersonbbezerra)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://www.dio.me/users/emersonbbezerra)
+[![MY PROFILE ON DIO](https://img.shields.io/badge/-My%20Profile%20on%20DIO-000?style=for-the-badge)](https://www.dio.me/users/emersonbbezerra)
 
 
 
