@@ -18,15 +18,17 @@
 
 ## Sobre mim
 
-Sou desenvolvedor de software com foco em backend, APIs REST e arquitetura de sistemas.
+Sou desenvolvedor backend com experiência em Node.js, TypeScript, Fastify, APIs REST, PostgreSQL, MongoDB e Prisma. Construo aplicações que conectam regras de negócio, dados e integrações para resolver problemas de quem utiliza o produto.
 
-Antes de migrar para tecnologia, formei-me em Química Industrial pela Universidade Estadual da Paraíba. Essa trajetória fortaleceu meu raciocínio analítico, minha atenção aos detalhes e minha capacidade de lidar com problemas quantitativos e processos complexos.
+Desenvolvo o BakeCost, um SaaS autoral em produção e disponível para assinatura. Criado a partir da rotina da confeitaria da minha esposa, o sistema reúne custos, precificação por canais de venda, estoque, lista de compras, controles financeiros, fichas técnicas e tabelas nutricionais.
 
-Hoje aplico essa base na construção de produtos digitais, transformando requisitos de negócio em sistemas seguros, confiáveis e fáceis de evoluir.
+No backend do BakeCost, trabalho com recálculo de receitas interdependentes, transações e controle de concorrência, isolamento de dados entre empresas, permissões e integração de pagamentos com o Asaas. Também implemento testes unitários, de integração e de ponta a ponta.
 
-Atuo principalmente com Node.js, TypeScript, Fastify, React, PostgreSQL, Prisma e Docker. Também possuo formação complementar em Java, Spring Boot, Cloud e engenharia de software.
+Na occa.dev, sou cofundador e CTO, com participação direta no desenvolvimento. Em parceria com um engenheiro, construímos o MAPI, plataforma de fiscalização de obras municipais concluída e testada, e o draft.occa, aplicação mobile de medições atualmente em validação de campo. No draft.occa, os registros podem reunir medidas, marcações, imagens e gravações de áudio.
 
-Acredito que tecnologia gera valor quando resolve problemas concretos, melhora processos e simplifica a vida das pessoas.
+Minha atuação inclui levantamento de requisitos, implementação, testes e implantação, além de desenvolvimento complementar com React e Next.js.
+
+Curso Análise e Desenvolvimento de Sistemas na UNINASSAU e sou graduado em Química Industrial pela UEPB. Minha experiência anterior em qualidade, processos e compliance contribui para analisar requisitos e verificar a consistência das informações.
 
 ---
 
